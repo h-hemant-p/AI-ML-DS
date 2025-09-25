@@ -1,5 +1,7 @@
 #### Linear Regration
 
+Linear Regration is an Regression Model.
+
 Linear Regression is a supervised machine learning algorithm used to predict a continuous numerical value by fitting a straight line between input (X) and output(Y).
 
 **FORMULA:**  Y=MX+C

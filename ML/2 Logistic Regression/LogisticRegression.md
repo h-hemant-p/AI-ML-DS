@@ -1,5 +1,7 @@
 #### Logistic Regression
 
+Logistic Regration is a Classification Model.
+
 Logistic regression is a supervised machine learning algorithm used for classification tasks, despite its name suggesting regression. It predicts the probability that a given input belongs to a particular class, making it ideal for binary classification (e.g., yes/no, spam/not spam) and extendable to multi-class classification (e.g., classifying types of flowers).
 
 * It takes numerical values(continous and descrete both) as an input.
