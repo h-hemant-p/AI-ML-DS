@@ -1,5 +1,7 @@
 *.csv
 *.xls
+*.xlsx
+*.json
 *.zip
 *.pdf
 train.txt

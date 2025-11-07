@@ -1,7 +1,13 @@
+NLP
+------------
 1. Stemming/Lemmatization
+
 2. Encoding - Onehot encoding; labeled encoding
 3. Evaluation(Accuracy, F1, BLEU, ROUGE)
 4. Feature Engineering(POS tags, NER, Sentiment, etc.)
 
+DL
+-----------
+1. 
 
 https://github.com/h-hemant-p/AI-ML-DS/blob/main
