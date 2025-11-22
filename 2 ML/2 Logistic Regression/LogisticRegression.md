@@ -1,4 +1,5 @@
-#### Logistic Regression
+#### 
+    Logistic Regression
 
 Logistic Regration is a Classification Model.
 
@@ -49,7 +50,7 @@ Logistic regression is a supervised machine learning algorithm used for classifi
   where:
 
   - \( x_1, x_2, \...., x_n \): Input features (e.g., age, income).
-  - \( w_1, w_2, .....\, w_n \): Weights (coefficients) for each feature, learned during training.
+    - \( w_1, w_2, ..1     ...\, w_n \): Weights (coefficients) for each feature, learned during training.
   - \( b \): Bias term (intercept), a constant.
   - \( z \): The resulting linear combination, a real number.
     ![1753032673432](image/LogisticRegression/1753032673432.png)
