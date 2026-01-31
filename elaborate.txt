@@ -11,3 +11,9 @@ DL
 1. 
 
 https://github.com/h-hemant-p/AI-ML-DS/blob/main
+
+albow point
+
+over segmentation
+
+iris dataset
