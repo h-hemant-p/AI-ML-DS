@@ -34,16 +34,24 @@
 
 ---
 
-Saved Tabs
+#### Semester 1 Reference
 
-
-* MLOPS :
-  * Online Session-PCP-Weekday-BC=251401_(MlOps)
-* Artificial Intelligence :
-  * Online Session-PCP-DS-Weekday-BC=251711_(Artificial Intelligence)
-* GenAI
-  * Online Session-PCP (DS-AI) BC=251401_(Gen AI)
-* Deep Learning
-  * Online Session-PCP-Artificial Intelligence-Weekday – BC=250109
 * Data Analysis and ML
-  * Online Sessions -PCP-CS Weekday BC=251205_(Python)
+  * **Online Sessions -PCP-CS Weekday BC=251205_(Python)**
+* Deep Learning
+  * **Online Session-PCP-Artificial Intelligence-Weekday – BC=250109**
+* GenAI
+  * **Online Session-PCP (DS-AI) BC=251401_(Gen AI)**
+* Artificial Intelligence :
+  * **Online Session-PCP-DS-Weekday-BC=251711_(Artificial Intelligence)**
+* MLOPS :
+  * **Online Session-PCP-Weekday-BC=251401_(MlOps)**
+
+---
+
+#### Semester 2 Reference
+
+---
+
+Paused on
+Decision Tree Thoery – 23/07/2025 – Prof Vivek -> 35::41

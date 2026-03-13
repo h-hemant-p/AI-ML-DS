@@ -1,6 +1,8 @@
-## Vectorization Techniques
+# Vectorization Techniques
 
-##### 1. Bag of Words
+---
+
+## 1. Bag of Words
 
 It creates a list of all the unique words in your dataset (called vocabulary), and then for each sentence, it counts how many times each word appears. It doesn’t care about grammar or the order of words only the word frequency matters. That’s why it’s called a "bag" jumbled, unordered collection of words.
 
@@ -76,7 +78,7 @@ Results in a **sparse matrix***
 
 ---
 
-##### 2. TF IDF
+## 2. TF IDF
 
 TF = Term Frequency
 IDF = Inverse Doc Frequency

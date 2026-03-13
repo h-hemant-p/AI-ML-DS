@@ -100,6 +100,32 @@ In short, NLP allows machines to process human language jaise ki English, Hindi,
 
 ---
 
+##### Stemming V/S Lemmitization
+
+* **Lemmatization**
+
+  * Lemmatization is a Natural Language Processing (NLP) technique used to reduce a word to its  **base or dictionary form** , called a  **lemma** .
+  * 👉 It converts different forms of a word into a meaningful root word.
+  * **"went" → "go"** (real dictionary root)
+  * **"better" → "good"** (meaning-based)
+* **Stemming**
+
+  * **Stemming** is a Natural Language Processing (NLP) technique that reduces a word to its **root form** by cutting off prefixes or suffixes.
+  * 👉 It removes endings like  **-ing, -ed, -ly, -s** , etc.
+  * But important: ⚠️ The root word produced by stemming  **may not be a real dictionary word** .
+  * "play", "playing", "played" → "play"
+* **Difference Table**
+
+| Feature              | Stemming         | Lemmatization    |
+| -------------------- | ---------------- | ---------------- |
+| Method               | Cuts suffix      | Uses dictionary  |
+| Produces real words? | ❌ Not always    | ✅ Yes           |
+| Accuracy             | Lower            | Higher           |
+| Speed                | Faster           | Slower           |
+| Example              | studies → studi | studies → study |
+
+---
+
 * **Terminologies**
 
   1. **Corpus** : Collection of texts. dataset of texts.
