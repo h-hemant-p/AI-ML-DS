@@ -18,3 +18,5 @@ over segmentation
 iris dataset
 
 corelation
+
+recursive feature elimination
