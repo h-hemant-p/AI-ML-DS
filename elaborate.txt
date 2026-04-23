@@ -20,3 +20,5 @@ iris dataset
 corelation
 
 recursive feature elimination
+
+https://aiengineeringfromscratch.com/
