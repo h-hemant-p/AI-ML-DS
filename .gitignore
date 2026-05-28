@@ -3,5 +3,5 @@
 *.xlsx
 *.json
 *.zip
-# *.pdf
+*.pdf
 train.txt
